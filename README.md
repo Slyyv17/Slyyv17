@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Front-end web Development 💻🖤
 - 🌱 I’m currently learning ... React.js
 - 💞️ I’m looking to collaborate with a back-end developer and front-end web dev
-- 📫 How to reach me ... https://victor-dev-gamma.vercel.app/ 
+- 📫 How to reach me ... ememevictor08@gmail.com 
 - 😄 Pronouns: ... Him🧍🏾‍♂️
 - ⚡ Fun fact: I love coding and I'm interested in anyone who love's it and I'm willing to learn more😊
 
