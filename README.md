@@ -35,3 +35,4 @@ MY Github History!:
 
 ![Slyyv17 GitHub stats](https://github-readme-stats.vercel.app/api?username=Slyyv17&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slyyv17&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Slyyv17&theme=highcontrast)](https://git.io/streak-stats)
