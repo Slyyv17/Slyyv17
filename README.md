@@ -6,6 +6,9 @@
 - 😄 Pronouns: ... Him🧍🏾‍♂️
 - ⚡ Fun fact: I love coding and I'm interested in anyone who love's it and I'm willing to learn more😊
 
+- I am Currently working on:
+- A Management App
+
 <!---
 Slyyv17/Slyyv17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
