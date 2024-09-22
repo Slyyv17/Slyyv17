@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slyyv17
 - 👀 I’m interested in ... Front-end web Development 💻🖤
-- 🌱 I’m currently learning ... React.js
+- 🌱 I’m currently learning ... React.js and Tailwind CSS
 - 💞️ I’m looking to collaborate with a back-end developer and front-end web dev
 - 📫 How to reach me ... ememevictor08@gmail.com 
 - 😄 Pronouns: ... Him🧍🏾‍♂️
