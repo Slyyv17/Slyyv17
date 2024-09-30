@@ -5,7 +5,7 @@
 - 📫 How to reach me ... ememevictor08@gmail.com 
 - 😄 Pronouns: ... Him🧍🏾‍♂️
 - ⚡ Fun fact: I love coding and I'm interested in anyone who love's it and I'm willing to learn more😊
-- I'll Create Softwares someday, BELIEVE!!!
+- I'll launch Softwares someday, BELIEVE!!!
 
 - I am Currently working on:
 - A Management App
