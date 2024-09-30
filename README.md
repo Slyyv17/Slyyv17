@@ -1,13 +1,16 @@
 - 👋 Hi, I’m @Slyyv17
-- 👀 I’m interested in ... Front-end web Development 💻🖤
-- 🌱 I’m currently learning ... React.js and Tailwind CSS
+- 👀 I’m interested in ... Fullstack Web Development 💻🖤
+- 🌱 I’m currently learning ... Java and Spring boot
 - 💞️ I’m looking to collaborate with a back-end developer and front-end web dev
 - 📫 How to reach me ... ememevictor08@gmail.com 
 - 😄 Pronouns: ... Him🧍🏾‍♂️
 - ⚡ Fun fact: I love coding and I'm interested in anyone who love's it and I'm willing to learn more😊
+- I'll Create Softwares someday, BELIEVE!!!
 
 - I am Currently working on:
 - A Management App
+- Gamified Learning System
+- A School Database System
 
 <!---
 Slyyv17/Slyyv17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
