@@ -8,7 +8,7 @@
 
 
 - Recent Projects
-- Complex Management App: Allows users to create task and the containers, drag and drop those task, integrated Charts to enable the user view the amount of task created.
+- Project Management App: Allows users to create task and the containers, drag and drop those task, integrated Charts to enable the user view the amount of task created.
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Slyyv17)
 <!---
