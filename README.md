@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slyyv17
 - 👀 I’m interested in ... Fullstack Web Development 💻🖤
-- 🌱 I’m currently learning ... Javascript Backend technologies
+- 🌱 I’m currently learning ... Backend technologies
 - 💞️ I’m looking to collaborate with a back-end developer and front-end web dev
 - 📫 How to reach me ... ememevictor08@gmail.com 
 - 😄 Pronouns: ... Him🧍🏾‍♂️
