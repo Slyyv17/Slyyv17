@@ -3,6 +3,8 @@
 -  Mastering ... a backend technologies
 -  Practice makes Improvement, One step at a time bruh!
 
+My cool projects are in my private repos
+
 **Consistency || Obsession**
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Slyyv17)
