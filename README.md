@@ -1,6 +1,6 @@
 -  I’m Victor
 -  I’m interested in ... Software Engineering, Start-ups 💻🖤
--  Mastering ... Spring boot
+-  Mastering ... a backend technologies
 -  Practice makes Improvement, One step at a time bruh!
 
 **Consistency || Obsession**
