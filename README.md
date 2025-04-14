@@ -1,5 +1,5 @@
 -  I’m Victor
--  I’m interested in ... Software Engineering, Start-ups 💻🖤
+-  I’m interested in ... Start-ups, SaaS, Big Tech companies...
 -  Mastering ... a backend technologies
 -  Practice makes Improvement, One step at a time bruh!
 
