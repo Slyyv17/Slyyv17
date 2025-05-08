@@ -3,6 +3,7 @@
 -  Mastering ... a backend technologies
 -  Practice makes Improvement, One step at a time bruh!
 
+I have worked with MERN, PERN and also spring boot to create cool projects, also integrated docker for containerization. 
 My cool projects are in my private repos
 
 **Consistency || Obsession**
