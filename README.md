@@ -1,10 +1,20 @@
--  I’m Victor
--  I’m interested in ... Start-ups, SaaS, Big Tech companies...
--  Mastering ... a backend technologies
--  Practice makes Improvement, One step at a time bruh!
+👨‍💻 Welcome to Victor’s Space! 🚀💡
 
-I have worked with MERN, PERN and also spring boot to create cool projects, also integrated docker for containerization. 
-My cool projects are in my private repos
+I’m @Victor — an untypical dev who solves real problems with clean code, smart systems, and bold ideas.
+
+  👀 What I'm About
+  
+I’m not just passionate about coding — I thrive on turning challenges into real-world solutions that make a meaningful impact.
+
+🌱 Current Focus
+
+Currently deepening my skills in microservices architecture, building scalable systems and mastering service-to-service communication.
+
+-  Practice makes Improvement, One step at a time...
+
+💻 Tech Stack & Experience
+
+I’ve built projects using the MERN and PERN stacks, as well as Spring Boot for backend development. I’ve also integrated Docker for containerization to ensure smooth deployment. While many of my projects are in private repositories, they showcase real-world problem-solving and a passion for clean, scalable architecture.
 
 **Consistency || Obsession**
 
