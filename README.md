@@ -16,6 +16,18 @@ Currently deepening my skills in microservices architecture, building scalable s
 
 I’ve built projects using the MERN and PERN stacks, as well as Spring Boot for backend development. I’ve also integrated Docker for containerization to ensure smooth deployment. While many of my projects are in private repositories, they showcase real-world problem-solving and a passion for clean, scalable architecture.
 
+🚀 Recent Project
+
+- JobHR🧑‍💼
+
+It is a fullstack job application platform that enables job seekers to browse and apply for jobs 🧑‍💼, recruiters to post and manage listings 📢, and admins to review and approve postings ✅. Built as a way to test and grow my fullstack development skills 🛠️, it focuses on delivering a seamless and user-friendly experience for everyone involved in the hiring process.
+
+Although still a work in progress ⚙️, JobHR already includes core features like job posting, application tracking, and role-based access control 🔐.
+
+- 🎙️ Podcast Platform
+
+A fullstack podcast web app that lets users stream episodes, follow shows, and stay updated. It features RSS feed integration for automatic episode updates and in-browser playback for a smooth listening experience. Built to explore content syndication and real-time media handling.
+
 **Consistency || Obsession**
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Slyyv17)
