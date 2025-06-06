@@ -28,6 +28,10 @@ Although still a work in progress ⚙️, JobHR already includes core features l
 
 A fullstack podcast web app that lets users stream episodes, follow shows, and stay updated. It features RSS feed integration for automatic episode updates and in-browser playback for a smooth listening experience. Built to explore content syndication and real-time media handling.
 
+- 🎮 Gamified Learning System
+
+An engaging web app that turns learning into a game with scoring, timed challenges, and instant feedback. Users complete assignments, track progress, and stay motivated through fun, interactive gameplay. Built to make education rewarding and exciting.
+
 **Consistency || Obsession**
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Slyyv17)
