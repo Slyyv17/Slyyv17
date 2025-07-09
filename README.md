@@ -14,7 +14,7 @@ Actively deepening my expertise in distributed systems, exploring scalable archi
 
 💻 Tech Stack & Experience
 
-I’ve built projects using the MERN and PERN stacks, as well as Spring Boot for backend development. I’ve also integrated Docker for containerization to ensure smooth deployment. While many of my projects are in private repositories, they showcase real-world problem-solving and a passion for clean, scalable architecture.
+I’ve built projects using the MERN and PERN stacks, as well as Go for backend development. I’ve also integrated Docker for containerization to ensure smooth deployment. While many of my projects are in private repositories, they showcase real-world problem-solving and a passion for clean, scalable architecture.
 
 🚀 Recent Project
 
