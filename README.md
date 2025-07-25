@@ -13,7 +13,7 @@ I’m not just passionate about coding — I thrive on turning challenges into r
 Currently building with **Go + Gin**, diving into backend magic, and exploring the wild frontier of **AI**.  
 Just connecting the dots — one line of code at a time. ⚙️✨  
 
-[![Email](https://img.shields.io/badge/Let's_Collab-victorememe@gmail.com.com-blue?style=for-the-badge&logo=gmail)](mailto:victorememe@example.com)
+[![Email](https://img.shields.io/badge/Let's_Collab-victorememe08@gmail.com.com-blue?style=for-the-badge&logo=gmail)](mailto:victorememe@example.com)
 
 -  Practice makes Improvement, One step at a time...
 
