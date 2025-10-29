@@ -8,10 +8,9 @@ I’m not just passionate about coding — I thrive on turning challenges into r
 
 🌱 Current Focus
 
-## 👨🏾‍💻 Backend Dev | 🤖 AI Explorer
+## 🤖 AI Explorer
 
-Currently building with **Go + Gin**, diving into backend magic, and exploring the wild frontier of **AI**.  
-Just connecting the dots — one line of code at a time. ⚙️✨  
+Currently working and building AI projects. ⚙️✨  
 
 [![Email](https://img.shields.io/badge/Let's_Collab-victorememe08@gmail.com.com-blue?style=for-the-badge&logo=gmail)](mailto:victorememe@example.com)
 
@@ -23,7 +22,7 @@ I’ve built projects using the MERN and PERN stacks, as well as Go for backend 
 
 🚀 Recent Project
 
-Tredia 
+- 🛒 Tredia 
 A fullstack marketplace platform that enables users to buy and sell products securely through an integrated escrow system 🤝. The escrow feature ensures safe transactions between two or more parties, protecting both buyers and sellers during payments 💳.
 
 Built to redefine trust in online trading, Tredia provides an intuitive interface for browsing, listing, and managing products, while maintaining transparency and fairness in every deal ⚖️.
