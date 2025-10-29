@@ -23,6 +23,11 @@ I’ve built projects using the MERN and PERN stacks, as well as Go for backend 
 
 🚀 Recent Project
 
+Tredia 
+A fullstack marketplace platform that enables users to buy and sell products securely through an integrated escrow system 🤝. The escrow feature ensures safe transactions between two or more parties, protecting both buyers and sellers during payments 💳.
+
+Built to redefine trust in online trading, Tredia provides an intuitive interface for browsing, listing, and managing products, while maintaining transparency and fairness in every deal ⚖️.
+
 - JobHR🧑‍💼
 
 It is a fullstack job application platform that enables job seekers to browse and apply for jobs 🧑‍💼, recruiters to post and manage listings 📢, and admins to review and approve postings ✅. Built as a way to test and grow my fullstack development skills 🛠️, it focuses on delivering a seamless and user-friendly experience for everyone involved in the hiring process.
