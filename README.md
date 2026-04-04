@@ -4,13 +4,8 @@ I’m @Victor — an untypical dev who solves real problems with clean code, sma
 
   👀 What I'm About
   
-I’m not just passionate about coding — I thrive on turning challenges into real-world solutions that make a meaningful impact.
+It's all about improvisation and not working with what is on paper, creative thinking. I am that guy.
 
-🌱 Current Focus
-
-## 🤖 AI Explorer
-
-Currently working and building AI projects. ⚙️✨  
 
 [![Email](https://img.shields.io/badge/Let's_Collab-victorememe08@gmail.com.com-blue?style=for-the-badge&logo=gmail)](mailto:victorememe@example.com)
 
