@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Slyyv17 GitHub stats](https://github-readme-stats.vercel.app/api?username=Slyyv17&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slyyv17&layout=compact&langs_count=14)
+![GitHub Stats](https://ghstats.dev/api/card?username=Slyyv17)
+![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=Slyyv17&layout=compact&langs_count=20&theme=tokyonight&size_weight=0.5&count_weight=0.5)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Slyyv17&theme=highcontrast)](https://git.io/streak-stats)
 
